@@ -50,3 +50,4 @@ For feedback/questions encountered during using this aggregation service impleme
 the support channels provided by this repo. For feedback/requests related to the APIs in general,
 please initiate discussions in the respective API repo eg.
 [Attribution Reporting API repo](https://github.com/WICG/attribution-reporting-api).
+The new feature will be available in the next few months and will be available for download on the Steam Deck and Steam Deck platforms in the future and will be available for the Steam Deck in the future as well as in the future for the Steam community as well as the Steam Deck platforms that are currently available for the game in the future to the public and the 
